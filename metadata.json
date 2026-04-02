@@ -1,0 +1,5 @@
+{
+  "name": "JP Elétrica Solutions",
+  "description": "Soluções elétricas profissionais e seguras para sua residência ou empresa. Atendimento 24h em São Paulo e região.",
+  "requestFramePermissions": ["geolocation"]
+}
